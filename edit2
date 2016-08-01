@@ -1,0 +1,2 @@
+puts "Fuck"
+fuck = gets.chomp
